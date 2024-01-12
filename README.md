@@ -1,1 +1,1 @@
-# ethernet-test-applicaton
+# network-diagnostics-and-analysis-application
