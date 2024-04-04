@@ -1,4 +1,4 @@
-# network-diagnostics-and-analysis-application
+# network-diagnostics-application
 
 ## Project Description
 The primary goal of this simple Android application is to provide users with a network interface testing tool for Android devices.
