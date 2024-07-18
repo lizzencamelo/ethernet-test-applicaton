@@ -6,10 +6,7 @@ The primary goal of this simple Android application is to provide users with a n
 ## Software Tools 
 ```Android Studio```
 &nbsp;
-```ADB (Android Debug Bridge)```
-&nbsp;
-```AVD Manager```
-&nbsp;
+```Android SDK```
 
 ### Challenges Faced and Solutions
 #### Permission denied error
